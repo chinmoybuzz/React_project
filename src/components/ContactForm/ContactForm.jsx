@@ -41,7 +41,8 @@ const ContactForm = () => {
                 justifyContent:"center"
               }}>   <Button 
               text="submit Button"
-              /></div>
+              />
+              </div>
               </form>
         </div>
         <div className={`${styles.contact_image}`}></div>
